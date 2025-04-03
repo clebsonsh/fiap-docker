@@ -1,0 +1,22 @@
+{
+  "name": "fiap-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clebsonsh/fiap-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clebsonsh/fiap-docker/issues"
+  },
+  "homepage": "https://github.com/clebsonsh/fiap-docker#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
